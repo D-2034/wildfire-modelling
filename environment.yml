@@ -1,0 +1,25 @@
+name: wildfire
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - geopandas
+  - rasterio
+  - plotly
+  - matplotlib
+  - sqlalchemy
+  - tqdm
+  - fiona
+  - pytest
+  - schedule
+  - shapely
+  - psycopg2
+  - requests
+  - fastapi
+  - uvicorn
+  - pyproj
+  - geoalchemy2
+  - python-dotenv
+  - pyarrow
