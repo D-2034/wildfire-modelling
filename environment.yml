@@ -23,3 +23,4 @@ dependencies:
   - geoalchemy2
   - python-dotenv
   - pyarrow
+  - ipykernel
