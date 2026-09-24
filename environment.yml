@@ -24,3 +24,10 @@ dependencies:
   - python-dotenv
   - pyarrow
   - ipykernel
+  - scikit-learn
+  - duckdb
+  - dbt-duckdb
+  - joblib
+  - xarray
+  - rioxarray
+  - scipy
